@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Note: this account is no longer active. Refer to my personal account.
+
 - 🔭 I’m currently working on a cross-platform framework tool.
 - 🌱 I’m currently learning CI/CD best practices
 - 🤔 I’m looking for help with writing vcpkg ports and gMock
